@@ -1,0 +1,11 @@
+assay_chembl_id,number_of_records,assay_type,assay_description,target_name,organism,document_year
+CHEMBL615325,6,F,Inhibition of ligand-induced proliferation in human EGF-R Kinase expressing 3T3 cells,Epidermal growth factor receptor,Homo sapiens,2002
+CHEMBL615490,2,F,Inhibition of ligand-induced proliferation in human EGF-R Kinase expressing 3T3 cells (Not tested),Epidermal growth factor receptor,Homo sapiens,2002
+CHEMBL621151,9,F,Inhibition of autophosphorylation of human epidermal growth factor-receptor (EGF-R) expressed in A431 cells,Epidermal growth factor receptor,Homo sapiens,2002
+CHEMBL674637,16,B,Inhibitory activity towards tyrosine phosphorylation for the epidermal growth factor-receptor kinase,Epidermal growth factor receptor,Homo sapiens,2002
+CHEMBL674643,50,B,Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase,Epidermal growth factor receptor,Homo sapiens,1989
+CHEMBL674644,1,B,Inhibition of EGF-dependent epidermal growth factor receptor autophosphorylation,Epidermal growth factor receptor,Homo sapiens,1989
+CHEMBL674645,1,B,Inhibition of EGF-dependent epidermal growth factor receptor autophosphorylation (inactive),Epidermal growth factor receptor,Homo sapiens,1989
+CHEMBL674646,1,B,Inhibition of EGF-dependent epidermal growth factor receptor autophosphorylation (inactive),Epidermal growth factor receptor,Homo sapiens,1989
+CHEMBL677833,13,B,In vitro inhibition of Epidermal growth factor receptor tyrosine kinase isolated from A431 (human carcinoma).,Epidermal growth factor receptor,Homo sapiens,2003
+CHEMBL679675,1,B,Inhibition of Epidermal growth factor receptor (not tested),Epidermal growth factor receptor,Homo sapiens,2000
